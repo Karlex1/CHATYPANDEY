@@ -1,10 +1,10 @@
-project:
-  name: "WhatsApp GPT-Style Chatbot"
-  description: >
-    A custom Transformer-based language model trained on WhatsApp chat exports.
+# project: "WhatsApp GPT-Style Chatbot"
+  
+# Description:
+  - A custom Transformer-based language model trained on WhatsApp chat exports.
     It mimics user conversation styles using GPT-style architecture and BPE tokenizer.
 
-features:
+# Features:
   - "📱 WhatsApp Preprocessing: Parses exported .txt files from WhatsApp"
   - "🧼 Cleans system, media, and spam messages"
   - "📊 Groups consecutive messages by sender"
